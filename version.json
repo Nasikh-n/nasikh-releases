@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://github.com/Nasikh-n/nasikh-releases/blob/main/app-debug.apk",
+  "apkUrl": "https://github.com/Nasikh-n/nasikh-releases/blob/main/App-Version/app-debug.apk",
   "releaseNotes": "• محرك الأوتوميشن السريع كل 45ms\n• الانتقال الفوري والسلس بين الشاشات\n• دعم قوائم الرموز وقنوات أوفرلك",
   "isMandatory": false,
 
