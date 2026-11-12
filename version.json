@@ -1,0 +1,36 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/Nasikh-n/nasikh/releases/latest/download/app-debug.apk",
+  "releaseNotes": "• محرك الأوتوميشن السريع كل 45ms\n• الانتقال الفوري والسلس بين الشاشات\n• دعم قوائم الرموز وقنوات أوفرلك",
+  "isMandatory": false,
+
+  "broadcastNotice": {
+    "id": 1,
+    "enabled": false,
+    "title": "تنويه هام من إدارة ناسخ",
+    "message": "أهلاً بك في تطبيق ناسخ! اشترك الآن في قناة أوفرلك ليصلك كل جديد من الخصومات والعروض اليومية الحصرية.",
+    "actionText": "انضم للقناة الآن",
+    "actionUrl": "https://t.me/Awfarlak",
+    "badge": "📢 تنبيه رسمي"
+  },
+
+  "communityCard": {
+    "visible": true,
+    "title": "عروض وخصومات أوفرلك | Awfarlak",
+    "subtitle": "تابعنا على تليجرام وفيسبوك لأحدث العروض والصفقات",
+    "badge": "🔥 قناة ننصح بها",
+    "telegramUrl": "https://t.me/Awfarlak",
+    "facebookUrl": "https://www.facebook.com/AwfarlakDeals/",
+    "buttonText": "انضم الآن ➔"
+  },
+
+  "adBanner": {
+    "enabled": false,
+    "title": "مساحة إعلانية مخصصة",
+    "subtitle": "هنا يمكنك وضع إعلاناتك أو إعلانات الرعاة ومشاريعك مستقبلاً",
+    "badge": "إعلان مميز ✨",
+    "actionText": "مشاهدة العرض ➔",
+    "actionUrl": "https://t.me/Awfarlak"
+  }
+}
