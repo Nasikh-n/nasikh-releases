@@ -1,9 +1,9 @@
 {
   "versionCode": 9,
   "versionName": "1.7.0",
-  "apkUrl": "https://github.com/Nasikh-n/nasikh-releases/releases/latest/download/app-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Nasikh-n/nasikh-releases/main/App-Version/app-debug.apk",
   "telemetryUrl": "https://script.google.com/macros/s/AKfycbyJnrN80pdCMNOoMxWADtkGitWurIA0Ja9ov6-jLZmM8DDx_YIa4cdkJRNvnqFzjU6zlg/exec",
-  "releaseNotes": "• مزامنة الأكواد سحابياً بدون تحديث التطبيق عبر version.json\n• إضافة سلسلة أزرار متعددة (+) للقوائم الخاصة مع كشف الأخطاء التلقائي\n• إصلاح انضغاط نافذة إضافة/تعديل القائمة عند فتح لوحة المفاتيح\n• تشفير وإخفاء بنك الأسئلة واستبعاد الأبواب المنتهية تلقائياً وإصلاح سباق شاشة مبارك",
+  "releaseNotes": "• شاشة دخول ذكية وتحميل مسبق لتسريع الواجهة وتخفيف الخلفية\n• معالجة نافذة انتهاء أسئلة الباب (حدث خطأ / إغلاق) تلقائياً وإصلاح سباق شاشة مبارك\n• إعادة عداد الأسئلة في كل جلسة وحفظ الوضع التلقائي/العادي تلقائياً\n• إضافة سلاسل أزرار متعددة (+) للقوائم الخاصة وفصل سجلها عن خزينة نسك\n• مزامنة الأكواد سحابياً وتشفير وحماية بنك الأسئلة",
   "isMandatory": false,
 
   "codesSync": {
