@@ -1,9 +1,18 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/Nasikh-n/nasikh-releases/blob/main/App-Version/app-debug.apk",
-  "releaseNotes": "• محرك الأوتوميشن السريع كل 45ms\n• الانتقال الفوري والسلس بين الشاشات\n• دعم قوائم الرموز وقنوات أوفرلك",
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/Nasikh-n/nasikh-releases/releases/latest/download/app-debug.apk",
+  "telemetryUrl": "https://script.google.com/macros/s/AKfycbyJnrN80pdCMNOoMxWADtkGitWurIA0Ja9ov6-jLZmM8DDx_YIa4cdkJRNvnqFzjU6zlg/exec",
+  "releaseNotes": "• مزامنة الأكواد سحابياً بدون تحديث التطبيق عبر version.json\n• إضافة سلسلة أزرار متعددة (+) للقوائم الخاصة مع كشف الأخطاء التلقائي\n• إصلاح انضغاط نافذة إضافة/تعديل القائمة عند فتح لوحة المفاتيح\n• تشفير وإخفاء بنك الأسئلة واستبعاد الأبواب المنتهية تلقائياً وإصلاح سباق شاشة مبارك",
   "isMandatory": false,
+
+  "codesSync": {
+    "codesVersion": 1,
+    "replaceAll": false,
+    "remoteCodesUrl": "",
+    "addCodes": [],
+    "removeCodes": []
+  },
 
   "broadcastNotice": {
     "id": 1,
